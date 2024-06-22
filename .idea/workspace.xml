@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="993d98d3-863b-48af-a25f-b605dbe22d8f" name="Changes" comment="Day 2 - Variables and Data Types">
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/If_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/if_loop2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/For_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Multiple of 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Mutliple of 3 part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Reverce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Select any number.py" afterDir="false" />
+    <list default="true" id="993d98d3-863b-48af-a25f-b605dbe22d8f" name="Changes" comment="For loop and if loop programs">
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Match_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/F1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Non_return_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Return Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Triagle_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Tuples_multiple arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/leap year.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_05062024/Lab0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_05062024/Lab0003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.F1.executor": "Run",
     "Python.For_loop.executor": "Run",
     "Python.If_loop.executor": "Run",
     "Python.Lab0003.executor": "Run",
@@ -70,16 +66,23 @@
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Match.executor": "Run",
+    "Python.Match_calculator.executor": "Run",
     "Python.Multiple of 3.executor": "Run",
     "Python.Mutliple of 3 part 2.executor": "Run",
+    "Python.Non Return Function.executor": "Run",
+    "Python.Non_return_function.executor": "Run",
     "Python.Pass.executor": "Run",
     "Python.Reverce.executor": "Run",
     "Python.Select any number.executor": "Run",
+    "Python.Triagle_classifier.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.Tuples_multiple arguments.executor": "Run",
     "Python.if_loop2.executor": "Run",
+    "Python.leap year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -114,13 +117,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717923094136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="For loop and if loop programs">
+      <option name="closed" value="true" />
+      <created>1719055115359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055115359</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Day 2 - Variables and Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 - Variables and Data Types" />
+    <MESSAGE value="For loop and if loop programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="For loop and if loop programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
